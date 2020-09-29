@@ -157,33 +157,49 @@ HTML是一门用标记语法工作的，用于描述功能的符号叫做"标记
   &nbsp
   <br>&nbsp
   <br>&nbsp
-  <p align="center">关于腾讯&nbsp|&nbspAbout&nbspTencet&nbsp|&nbsp服务协议&nbsp|&nbsp
-  隐私政策&nbsp|&nbsp开放平台&nbsp|&nbsp商务洽谈&nbsp|&nbsp腾讯招聘&nbsp|&nbsp腾讯公益
-  &nbsp|&nbsp客服中心&nbsp|&nbsp网站导航&nbsp|&nbsp客户端下载
+  <p align="center"><a href="https://www.tencent.com/zh-cn">关于腾讯</a>&nbsp|&nbsp
+                    <a href="https://www.tencent.com/en-us/index.html">About&nbspTencet</a>&nbsp|&nbsp
+                    <a href="https://www.qq.com/contract.shtml">服务协议</a>&nbsp|&nbsp
+                    <a href="https://privacy.qq.com/">隐私政策</a>&nbsp|&nbsp
+                    <a href="https://open.tencent.com/">开放平台</a>&nbsp|&nbsp
+                    <a href="https://www.tencent.com/zh-cn/partnership.html">商务洽谈</a>&nbsp|&nbsp
+                    <a href="https://careers.tencent.com/">腾讯招聘</a>&nbsp|&nbsp
+                    <a href="https://gongyi.qq.com/">腾讯公益</a>&nbsp|&nbsp 
+                    <a href="https://kf.qq.com/">客服中心</a>&nbsp|&nbsp
+                    <a href="https://www.qq.com/map/">网站导航</a>&nbsp|&nbsp
+                    <a href="https://www.qq.com/">客户端下载</a> 
   <br>&nbsp
   <br>&nbsp
-  深圳举报中心&nbsp|&nbsp深圳公安局&nbsp|&nbsp抵制违法广告承诺书&nbsp|&nbsp
-  版权保护投诉指引&nbsp|&nbsp广东省通管局
+                    <a href="http://szwljb.sz.gov.cn/">深圳举报中心</a>&nbsp|&nbsp
+                    <a href="http://ga.sz.gov.cn/">深圳公安局</a>&nbsp|&nbsp
+                    <a href="https://www.qq.com/dzwfggcns.htm">抵制违法广告承诺书</a>&nbsp|&nbsp
+                    <a href="https://www.qq.com/copyright.shtml">版权保护投诉指引</a>&nbsp|&nbsp
+                    <a href="https://gdca.miit.gov.cn/">广东省通管局</a>
   <br>&nbsp
   <br>&nbsp
-  粤网文[2017]6139-1456号&nbsp新出网证（粤）字010号&nbsp网络视听许可证1904073号&nbsp
-  增值电信业务经营许可证：粤B2-20090059&nbspB2-20090028
+                    <a href="https://www.qq.com/culture.shtml">粤网文[2017]6139-1456号</a>&nbsp
+                    <a href="https://www.qq.com/internet_licence.htm">新出网证（粤）字010号</a>&nbsp
+                    <a href="https://www.qq.com/cbst.shtml">网络视听许可证1904073号</a>&nbsp
+                    增值电信业务经营许可证：<a href="https://beian.miit.gov.cn/#/Integrated/index">粤B2-20090059</a>&nbsp
+                    <a href="https://www.qq.com/icp1.shtml">B2-20090028</a>
   <br>&nbsp
   <br>&nbsp
-  新闻信息服务许可证&nbsp粤府新函[2001]87号&nbsp违法和不良信息举报电话：0755-83765566-4&nbsp
-  粤公网安备&nbsp44030002000001号
+                    <a href="https://www.qq.com/scio.htm">新闻信息服务许可证</a>&nbsp
+                    <a href="https://www.qq.com/xwdz.shtml">粤府新函[2001]87号</a>&nbsp
+                    违法和不良信息举报电话：0755-83765566-4&nbsp
+                    <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030002000001">粤公网安备&nbsp44030002000001号</a>
   <br>&nbsp
   <br>&nbsp
-  互联网药品信息服务资格证书（粤）—非营业性—2017—0153
+                    <a href="https://www.qq.com/spyp.htm">互联网药品信息服务资格证书（粤）—非营业性—2017—0153</a>
   <br>&nbsp
   <br>&nbsp
-  Copyright&nbsp1998&nbsp-&nbsp2020&nbspTencet.&nbspAll&nbspRights&nbspReserved
+                    Copyright&nbsp1998&nbsp-&nbsp2020&nbspTencet.&nbspAll&nbspRights&nbspReserved
   <br>&nbsp
   <br>&nbsp
   </p>
   </body>
   </html>
-  做出来的效果，再加上超链接，应该和腾讯页面一样。
+  做出来的效果，再加上超链接，应该和腾讯页面一样。做完后不满意，加上了超链接，和腾讯页面一样。
   心得：通过这次模仿腾讯页面，懂得了，一排放几个图片可以是用表格放的。
   
   
