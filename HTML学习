@@ -67,12 +67,124 @@ HTML是一门用标记语法工作的，用于描述功能的符号叫做"标记
   </head>
   <body>
     <img src="tlogo.jpg" width=652px height=142px alt=tencent>
-    <p>动动脑子，你不充钱会变得更强吗？————马话腾</p>
+    <p>年轻人，动动脑子，你不充钱会变得更强吗？————马话腾</p>
   </body>
   </html>
   此时，可以将文档另存为.html文件，用浏览器预览效果。
-  
-  
+  4.接下来，插入一个2x2的表格，在表格中分别显示图片说明和图片。先用HTML绘制表格，用HTML绘制表格的标记有3个双标记，<table><tr><td>，互相配合才能绘制表格。
+  如:
+  <html>
+  <head>
+    <title>赛腾讯</title>
+  </head>
+  <body>
+    <img src="tlogo.jpg" width=652px height=142px alt=tencent>
+    <p>年轻人，动动脑子，你不充钱会变得更强吗？————马话腾</p>
+    <table width="650" border="3" bordercolor="#FF0000">
+    <tr>
+    <td width="405">百度百科《马话腾简介》
+    <br>
+    广东汕头市潮南区人
+    <br>
+    1971年10月出生于广东省
+    <br>
+    腾讯公司主要创办人之一
+    <br>
+    1993年毕业于深圳大学计算机系
+    </td>
+    <td width="300">
+    <img src="t2.jpg" width="70" height="100" alt="html/css/javascript">
+    </td>
+    </tr>
+    <tr>
+    <td width="405">百度百科《腾讯》
+    <br>
+    1998年11月深圳腾讯计算机系统有限公司成立
+    <br>
+    腾讯多元化服务包括:社交qq及微信，腾讯新闻，腾讯视频等
+    <br>
+    2019胡润全球独角兽活跃投资机构百强榜
+    </td>
+    <td width="300">
+    <img src="t3.jpg" width="70" height="100" alt="html/css/javascript">
+    </td>
+    </tr>
+    </table>
+  </body>
+  </html>
+  2.6一时兴起，干脆又加了点东西
+  <html>
+  <head>
+  <title>赛腾讯</title>
+  </head>
+  <body>
+  <img src="tlogo.jpg" align="center" size="30" width="75%" height=242px alt="tencent">
+  <hr color="blue">
+  <p color="red" align="center">年轻人，动动脑子，不充钱你能变得更强吗?——马话腾</p>
+  &nbsp
+  <table align="left" width="650" border="3" bordercolor="#FF0000">
+    <tr>
+    <td width="405">百度百科《马话腾简介》
+    <br>
+    广东汕头市潮南区人
+    <br>
+    1971年10月出生于广东省
+    <br>
+    腾讯公司主要创办人之一
+    <br>
+    1993年毕业于深圳大学计算机系
+    </td>
+    <td width="300">
+    <img src="t2.jpg" width="150" height="100" alt="html/css/javascript">
+    </td>
+    </tr>
+    <tr>
+    <td width="405">百度百科《腾讯》
+    <br>
+    1998年11月深圳腾讯计算机系统有限公司成立
+    <br>
+    腾讯多元化服务包括:社交qq及微信，腾讯新闻，腾讯视频等
+    <br>
+    2019胡润全球独角兽活跃投资机构百强榜
+    </td>
+    <td width="300">
+    <img src="t3.jpg" width="150" height="100" alt="html/css/javascript">
+    </td>
+    </tr>
+    </table>
+  <img src="t1.jpg" align="center" width="652px" height="242px" alt="tencent">
+  <hr color="blue" size="3">
+  &nbsp
+  <br>&nbsp
+  <br>&nbsp
+  <p align="center">关于腾讯&nbsp|&nbspAbout&nbspTencet&nbsp|&nbsp服务协议&nbsp|&nbsp
+  隐私政策&nbsp|&nbsp开放平台&nbsp|&nbsp商务洽谈&nbsp|&nbsp腾讯招聘&nbsp|&nbsp腾讯公益
+  &nbsp|&nbsp客服中心&nbsp|&nbsp网站导航&nbsp|&nbsp客户端下载
+  <br>&nbsp
+  <br>&nbsp
+  深圳举报中心&nbsp|&nbsp深圳公安局&nbsp|&nbsp抵制违法广告承诺书&nbsp|&nbsp
+  版权保护投诉指引&nbsp|&nbsp广东省通管局
+  <br>&nbsp
+  <br>&nbsp
+  粤网文[2017]6139-1456号&nbsp新出网证（粤）字010号&nbsp网络视听许可证1904073号&nbsp
+  增值电信业务经营许可证：粤B2-20090059&nbspB2-20090028
+  <br>&nbsp
+  <br>&nbsp
+  新闻信息服务许可证&nbsp粤府新函[2001]87号&nbsp违法和不良信息举报电话：0755-83765566-4&nbsp
+  粤公网安备&nbsp44030002000001号
+  <br>&nbsp
+  <br>&nbsp
+  互联网药品信息服务资格证书（粤）—非营业性—2017—0153
+  <br>&nbsp
+  <br>&nbsp
+  Copyright&nbsp1998&nbsp-&nbsp2020&nbspTencet.&nbspAll&nbspRights&nbspReserved
+  <br>&nbsp
+  <br>&nbsp
+  </p>
+  </body>
+  </html>
+  做出来的效果，再加上超链接，应该和腾讯页面一样。
+  心得：通过这次模仿腾讯页面，懂得了，一排放几个图片可以是用表格放的。
   
   
   
