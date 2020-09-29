@@ -1,6 +1,6 @@
 HTML是网页制作的主要语言，是网页的基础架构；
 CSS简称样式表，是目前唯一的网页页面排版样式标准，它能使任何浏览器都听从指令；
-JavaScript是目前浏览器普遍支持的脚本语言，可以开发internet客户端的应用程序。
+JavaScript是目前浏览器普遍支持的脚本语言，可以开发internet客户端的应用程序，实现网页的动态性，交互性。
 
 弄清楚几个问题，1.JS如何嵌入HTML,2.在HTML基础架构中，CSS外部样式如何被调用。
 
@@ -11,8 +11,11 @@ something：
   4.CSS可以控制网页字体变化和大小
   5.JS语言可以和HTML语言结合，在HTML中可以直接编写JS代码
   6.JS可以实现类似弹出提示框这样的网页交互性功能
-
-
+  
+特点：
+   HTML以<html>                        开始，以</html>结束
+   CSS 以<style>                       开始，以</style>结束
+   JS  以<Script Language="JavaScript">开始，以</Script>结束
 
 
 认真学习HTML/CSS/JavaScript
